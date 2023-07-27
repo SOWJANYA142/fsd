@@ -1,0 +1,17 @@
+<html>
+ <head>
+  <titlt>FIRST EXPERIMENT</title>
+ </head>
+ <body bgcolor="green">
+  <h1><font size="10" color="yellow" face="mistral"><center> SOWJI</center> </font> </h1><hr><hr>
+  <h2><font face="impact" color="red"> SREE </font></h2><hr>
+  <p>Being judged and evaluated by people who have your future in their hands is more anxiety-inducing than meeting the in-laws </p><hr>
+  <h2><font face="italic" color="blue"> RADHA </font></h2><hr>
+  <p>Being judged and evaluated by people who have your future in their hands is more anxiety-inducing than meeting the in-laws </p><hr>
+  <h2><font face="bold" color="pink"> KRISHNA </font> </h2><hr>
+  <p>Being judged and evaluated by people who have your future in their hands is more anxiety-inducing than meeting the in-laws </p><hr>
+  <h1> <center>THE END </center> </h1><hr><hr>
+  <marquee><font face="mistral" color="black"> SREESOWJI SREESOWJI SREESOWJI SREESOWJI SREESOWJI SREESOWJI </font></marquee><hr><hr>
+ </body>
+</html>
+  
